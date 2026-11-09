@@ -311,6 +311,10 @@ See [docs/AGENTS.md](docs/AGENTS.md) for tool parameters and query patterns.
 
 ---
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/GrayMatter/)
+
 ## Token efficiency
 
 Numbers produced by `go run ./benchmarks/token_count` — real Recall calls,
